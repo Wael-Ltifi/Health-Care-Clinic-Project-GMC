@@ -1,0 +1,11 @@
+{
+    "DB_CONFIG":{
+        "URL":"mongodb+srv://wael:passbigw@cluster0.tl567.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    },
+    "SERVER_CONFIG":{
+        "PORT":5050
+    },
+    "JWT_CONFIG":{
+        "SECRET":"WAEL-LTIFI"
+    }
+}
